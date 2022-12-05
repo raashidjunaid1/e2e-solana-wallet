@@ -1,0 +1,1 @@
+export { E2EWallet } from './e2e-wallet';
